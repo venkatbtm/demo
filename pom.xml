@@ -41,12 +41,12 @@
 	<distributionManagement>
 
 		<repository>
-			<id>repoR</id>
-			<url>http://localhost:8080/nexus-2.14.1-01/content/repositories/repoR/</url>
+			<id>Rrepo</id>
+			<url>http://localhost:8081/nexus/content/repositories/Rrepo/</url>
 		</repository>
 		<snapshotRepository>
-			<id>repoS</id>
-			<url>http://localhost:8080/nexus-2.14.1-01/content/repositories/repoS/</url>
+			<id>Srepo</id>
+			<url>http://localhost:8081/nexus/content/repositories/Srepo/</url>
 		</snapshotRepository>		
   </distributionManagement>
 
